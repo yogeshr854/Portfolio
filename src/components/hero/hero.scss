@@ -6,8 +6,8 @@
     position: relative;
 
     .uiText {
-        color: orange; // Set your desired color, e.g., tomato color
-        font-weight: bold; // Optionally, make it bold or change the font style
+        color: orange; 
+        font-weight: bold; 
       }
 
     .wrapper{
@@ -68,8 +68,8 @@
         right: 0;
     
         @include mobile {
-          height: 50%;
-          width: 100%;
+          height: 60%;
+          width: 80%;
           top: unset;
           bottom: 0;
         }

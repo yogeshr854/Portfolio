@@ -15,7 +15,7 @@ const Navbar = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 1 }}
         >
-          Yogesh
+          <img  src="./yohesh3.png" alt="" />
         </motion.span>
         <div className="social">
           <a href="#">

@@ -22,8 +22,16 @@
 
         span{
             font-weight: bold;
+            img{
+                margin-left: -200px;
+                margin-top: 50px;
+                
+            }
+        
             @include mobile{
                 display: none;
+
+             
               }
             
         }
